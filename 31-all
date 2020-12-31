@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ogw/ADGmqu-mfXA-oq04H82TcIWTi4HIuoDHyAjC1LvyGSJJ" group-title="Premuim IPTV & ZalTV",Long term IPTV & ZalTV special offer
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ogw/ADGmqu-mfXA-oq04H82TcIWTi4HIuoDHyAjC1LvyGSJJ" group-title="Premium IPTV & ZalTV",Long term IPTV & ZalTV special offer
 http://www.mene77.ir/zt/ads-11626.mp4
 #EXTINF:0 tvg-country="EG;MY" tvg-logo="" group-title="Africa(12)",Al Horreya,AL HORREYA TV (1920×1080),EG | Al Horreya
 http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby
